@@ -1,0 +1,95 @@
+DESAFIO 1 BACKEND: Criando um projeto Spring com uma entidade e CRUD COMPLETO 
+
+📢 Título do Projeto 
+
+Sistema de Gestão de Recursos Humanos (RH) 
+
+
+🏢 Modelo de Negócio Escolhido 
+
+O projeto tem como objetivo desenvolver um sistema para gerenciamento de funcionários, cargos e departamentos de uma empresa. A aplicação permitirá a gestão eficiente de informações sobre colaboradores, incluindo cadastro, atualização, consulta e remoção de dados. 
+
+
+📖 Descrição Geral 
+
+O sistema de RH é uma aplicação backend baseada em Spring Boot, que oferece um CRUD completo para gerenciamento de funcionários dentro de uma organização. O sistema armazenará informações essenciais, como nome, cargo, departamento e salário. A aplicação contará com uma API REST para integração e utilização dos dados em diferentes sistemas ou interfaces. 
+ 
+
+📂 Entidade e Atributos da Entidade 
+
+A principal entidade do sistema será Funcionário, com os seguintes atributos: 
+
+ID (Long) – Identificador único do funcionário 
+
+Nome (String) – Nome completo do funcionário 
+
+Cargo (String) – Cargo ocupado pelo funcionário 
+
+Departamento (String) – Setor ao qual pertence 
+
+Salário (Double) – Remuneração do funcionário 
+
+
+⚙️ Funcionalidades Principais (CRUD) 
+
+O sistema oferecerá as seguintes operações para a entidade Funcionário: 
+
+Criar um novo funcionário 
+
+Listar todos os funcionários 
+
+Buscar funcionário por ID 
+
+Atualizar informações de um funcionário 
+
+Excluir um funcionário 
+
+Personalizado pesquisar por Departamento 
+
+
+🛠️ Tecnologias Utilizadas 
+
+Java 
+
+Spring Boot Dev Tools 
+
+Spring Web 
+
+Maven 
+
+Spring Data JPA 
+
+Insomnia 
+
+Validation  
+
+MySQL Driver 
+
+MySQL Workbench 
+ 
+
+📁 Estrutura do Projeto 
+
+O projeto será organizado seguindo as boas práticas de desenvolvimento, com a seguinte estrutura: 
+
+/src 
+├── main 
+│   ├── java/com/Projeto-RH/rh 
+│   │   ├── controller   # Controladores da API 
+│   │   ├── service      # Regras de negócio 
+│   │   ├── repository   # Repositórios para acesso ao banco 
+│   │   ├── model        # Modelos das entidades 
+│   │   ├── dto          # Objetos de transferência de dados 
+│   │   ├── config       # Configurações gerais 
+│   ├── resources 
+│   │   ├── application.properties # Configurações do Spring Boot 
+ 
+
+🏗👨‍💻 Equipe 
+Lays Sabryna
+Najla Guimarães
+Nicole Weiss
+Thais Machado
+Mireli Borges
+Mariana Marie
+Isabella Bento
