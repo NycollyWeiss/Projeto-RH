@@ -1,21 +1,38 @@
-DESAFIO 1 BACKEND: Criando um projeto Spring com uma entidade e CRUD COMPLETO 
+## <h1> DESAFIO 1 BACKEND: Criando um projeto Spring com uma entidade e CRUD COMPLETO </h1>  
 
-📢 Título do Projeto 
+### 📢 Título do Projeto 
 
-Sistema de Gestão de Recursos Humanos (RH) 
+<h3>Sistema de Gestão de Recursos Humanos (RH) </h3>
 
+ ### 🏗👨‍💻 Equipe 
+	 	
+ Lays Sabryna - https://github.com/SabrynaSousa 
+	
+ Najla Guimarães - https://github.com/NahGuimaraes 
+	
+ Nycolly Weiss - https://github.com/NycollyWeiss
+	
+ Thais Machado - https://github.com/machadothais
+	
+ Mireli Borges - https://github.com/mikaborges
+	
+ Mariana Marie - https://github.com/ihamari
+	
+ Isabella Bento - https://github.com/
 
-🏢 Modelo de Negócio Escolhido 
+<br>
+ 
+### 🏢 Modelo de Negócio Escolhido 
 
 O projeto tem como objetivo desenvolver um sistema para gerenciamento de funcionários, cargos e departamentos de uma empresa. A aplicação permitirá a gestão eficiente de informações sobre colaboradores, incluindo cadastro, atualização, consulta e remoção de dados. 
 
 
-📖 Descrição Geral 
+### 📖 Descrição Geral 
 
 O sistema de RH é uma aplicação backend baseada em Spring Boot, que oferece um CRUD completo para gerenciamento de funcionários dentro de uma organização. O sistema armazenará informações essenciais, como nome, cargo, departamento e salário. A aplicação contará com uma API REST para integração e utilização dos dados em diferentes sistemas ou interfaces. 
  
 
-📂 Entidade e Atributos da Entidade 
+### 📂 Entidade e Atributos da Entidade 
 
 A principal entidade do sistema será Funcionário, com os seguintes atributos: 
 
@@ -30,7 +47,7 @@ Departamento (String) – Setor ao qual pertence
 Salário (Double) – Remuneração do funcionário 
 
 
-⚙️ Funcionalidades Principais (CRUD) 
+### ⚙️ Funcionalidades Principais (CRUD) 
 
 O sistema oferecerá as seguintes operações para a entidade Funcionário: 
 
@@ -47,7 +64,7 @@ Excluir um funcionário
 Personalizado pesquisar por Departamento 
 
 
-🛠️ Tecnologias Utilizadas 
+### 🛠️ Tecnologias Utilizadas 
 
 Java 
 
@@ -68,28 +85,30 @@ MySQL Driver
 MySQL Workbench 
  
 
-📁 Estrutura do Projeto 
+### 📁 Estrutura do Projeto 
 
 O projeto será organizado seguindo as boas práticas de desenvolvimento, com a seguinte estrutura: 
 
 /src 
+
 ├── main 
+
 │   ├── java/com/Projeto-RH/rh 
+
 │   │   ├── controller   # Controladores da API 
+
 │   │   ├── service      # Regras de negócio 
+
 │   │   ├── repository   # Repositórios para acesso ao banco 
+
 │   │   ├── model        # Modelos das entidades 
+
 │   │   ├── dto          # Objetos de transferência de dados 
+
 │   │   ├── config       # Configurações gerais 
-│   ├── resources 
+
+│       ├── resources 
+
 │   │   ├── application.properties # Configurações do Spring Boot 
  
 
-🏗👨‍💻 Equipe 
-Lays Sabryna - https://github.com/SabrynaSousa
-Najla Guimarães - https://github.com/NahGuimaraes
-Nicole Weiss - https://github.com/NycollyWeiss
-Thais Machado - https://github.com/machadothais
-Mireli Borges - https://github.com/mikaborges
-Mariana Marie - https://github.com/ihamari
-Isabella Bento
