@@ -1,9 +1,5 @@
 ## <h1> DESAFIO 1 BACKEND: Criando um projeto Spring com uma entidade e CRUD COMPLETO </h1>  
 
-### 📢 Título do Projeto 
-
-<h3>Sistema de Gestão de Recursos Humanos (RH) </h3>
-
  ### 🏗👨‍💻 Equipe 
 	 	
  Lays Sabryna - https://github.com/SabrynaSousa 
@@ -19,8 +15,12 @@
  Mariana Marie - https://github.com/ihamari
 	
  Isabella Bento - https://github.com/
+ 
 
-<br>
+
+### <h2>📢 Título do Projeto </h2>
+
+<h3>Sistema de Gestão de Recursos Humanos (RH) </h3>
  
 ### 🏢 Modelo de Negócio Escolhido 
 
