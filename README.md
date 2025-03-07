@@ -61,7 +61,7 @@ Atualizar informações de um funcionário
 
 Excluir um funcionário 
 
-Personalizado pesquisar por Departamento 
+Personalizado pesquisar por nome de funcionário
 
 
 ### 🛠️ Tecnologias Utilizadas 
