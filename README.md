@@ -86,10 +86,10 @@ O projeto será organizado seguindo as boas práticas de desenvolvimento, com a 
  
 
 🏗👨‍💻 Equipe 
-Lays Sabryna
-Najla Guimarães
-Nicole Weiss
-Thais Machado
-Mireli Borges
-Mariana Marie
+Lays Sabryna - https://github.com/SabrynaSousa
+Najla Guimarães - https://github.com/NahGuimaraes
+Nicole Weiss - https://github.com/NycollyWeiss
+Thais Machado - https://github.com/machadothais
+Mireli Borges - https://github.com/mikaborges
+Mariana Marie - https://github.com/ihamari
 Isabella Bento
